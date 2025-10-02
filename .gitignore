@@ -56,7 +56,12 @@ Carthage/Build/
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/#source-control
 
+
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Ignorar imagens grandes do Xcode que dão problema de caminho
+**/Assets.xcassets/**/*.jpg
+**/Assets.xcassets/**/*.png

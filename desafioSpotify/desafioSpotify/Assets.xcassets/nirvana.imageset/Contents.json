@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "https__img.migalhas.com.br__SL__gf_base__SL__empresas__SL__MIGA__SL__imagens__SL__2022__SL__01__SL__04__SL__56c5333d-e60d-41b3-a635-cbaa6bd54487.jpg._PROC_CP65.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
